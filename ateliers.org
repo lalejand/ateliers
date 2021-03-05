@@ -88,6 +88,8 @@ plateformes LMS.
 - 11h-12h pour présenter https://doc.scenari.software/Opale/fr/
 - 12h-12h30 pour aborder les évolutions du SILL
 - Ouverte à tou⋅te⋅s
+- [[https://scenari.org/presentations/Opale/presDemoOpale_gen_sldHtml.zip][Support de la présentation de Opale]]
+- [[https://scenari.org/presentations/Opale/presDemoOpale_2021-03-05.scar][Sources de la présentation de Opale]] (format Scenair Optim)
 
 ** DONE 29 janvier : Atelier de présentation de SambaÉdu
    SCHEDULED: <2021-01-29 ven. 11:00-12:30>
